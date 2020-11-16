@@ -11,7 +11,7 @@ I am a PhD student at Nanjing University of Aeronautics and Astronautics.
 <!--START_SECTION:waka-->
 ```text
 JavaScript   28 mins         █████████▒░░░░░░░░░░░░░░░   37.76 % 
-Smarty       20 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.30 % 
+Smarty       20 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.29 % 
 C            12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
 JSON         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 sh           4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
