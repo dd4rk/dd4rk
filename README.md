@@ -10,10 +10,10 @@ I am a PhD student at Nanjing University of Aeronautics and Astronautics.
 
 <!--START_SECTION:waka-->
 ```text
-TeX          1 hr 48 mins    ████████▓░░░░░░░░░░░░░░░░   34.64 % 
-sh           1 hr 30 mins    ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
-JavaScript   44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-C            30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Smarty       29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+C            2 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.60 % 
+TeX          2 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.28 % 
+sh           1 hr 41 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.62 % 
+JavaScript   44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Smarty       28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 <!--END_SECTION:waka-->
