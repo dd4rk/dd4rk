@@ -10,6 +10,6 @@ I am a PhD student at Nanjing University of Aeronautics and Astronautics.
 
 <!--START_SECTION:waka-->
 ```text
-GAS   1 min           ███████████████░░░░░░░░░░   60.02 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
