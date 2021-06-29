@@ -10,10 +10,10 @@ I am a PhD student at Nanjing University of Aeronautics and Astronautics.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     5 hrs 18 mins   ██████████████████░░░░░░░   71.86 % 
-sh           1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-TypeScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Vue.js       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Markdown     5 hrs 18 mins   ██████████████████░░░░░░░   71.39 % 
+sh           1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.87 % 
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+TypeScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Vue.js       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 <!--END_SECTION:waka-->
